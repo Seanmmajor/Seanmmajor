@@ -14,8 +14,11 @@ void setup() {
   strs[0][0] = "Hey there!";
   strs[0][1] = "My name is Sean Major.";
 
-  strs[1][0] = "Feel free to reach out to say hi!";
-  strs[1][1] = "phone: 720-451-9272 | email: mightymcgee32@gmail.com";
+  strs[1][0] = "I am currently a senior in highschool";
+  strs[1][1] = "And I am studying computer science";
+
+  strs[2][0] = "Feel free to reach out to say hi!";
+  strs[2][1] = "phone: 720-451-9272 | email: mightymcgee32@gmail.com";
 }
 
 int i = 0;
