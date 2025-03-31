@@ -1,4 +1,4 @@
-<img src="https://github.com/Seanmmajor/Seanmmajor/blob/master/output.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/Seanmmajor/Seanmmajor/blob/master/github_README.pde" alt="Here is a little bit about me!">
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seanmmajor&show_icons=true&theme=dracula)
