@@ -1,16 +1,11 @@
-## Hi there 👋
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?
+username=USERNAMEHERE&show_icons=true)
+## Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?
+username=USERNAMEHERE&show_icons=true&show_icons=true)
+## Pin Repos to your Profile
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?
 
-<!--
-**Seanmmajor/Seanmmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-
+stats)
