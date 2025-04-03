@@ -5,3 +5,4 @@
 ## Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seanmmajor&show_icons=true&show_icons=true&theme=dracula)
 
+![python](https://github.com/user-attachments/assets/9f1bebf6-49ce-4421-acad-5509cef45b25)
