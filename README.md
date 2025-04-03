@@ -5,4 +5,5 @@
 ## Contributions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seanmmajor&show_icons=true&show_icons=true&theme=dracula)
 
-![python](https://github.com/user-attachments/assets/9f1bebf6-49ce-4421-acad-5509cef45b25)
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
