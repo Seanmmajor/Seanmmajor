@@ -1,3 +1,4 @@
+![Screenshot from 2025-04-03 10-00-57](https://github.com/user-attachments/assets/4f33e375-3f28-4e74-bf81-b6026034ccbb)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seanmmajor&show_icons=true&theme=dracula)
