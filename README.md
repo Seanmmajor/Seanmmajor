@@ -1,5 +1,8 @@
 <img src="https://github.com/Seanmmajor/Seanmmajor/blob/main/download.gif" alt="Here is a little bit about me!">
 
+## Feel free to reach out!
+Mightymcgee32@gmail.com
+
 ## Top languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seanmmajor&show_icons=true&theme=dracula)
 ## Contributions
