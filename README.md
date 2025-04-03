@@ -4,9 +4,8 @@
   ## Feel free to reach out!
   Mightymcgee32@gmail.com
   
-  ## Top languages
+  ## My stats
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seanmmajor&show_icons=true&theme=dracula)
-  ## Contributions
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seanmmajor&show_icons=true&show_icons=true&theme=dracula)
   
   ## Some technology I am familiar with
