@@ -1,4 +1,4 @@
-<img src="https://github.com/Seanmmajor/Seanmmajor/blob/main/download.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/Seanmmajor/Seanmmajor/blob/main/download (1).gif" alt="Here is a little bit about me!">
 
 ## Feel free to reach out!
 Mightymcgee32@gmail.com
